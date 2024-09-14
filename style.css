@@ -9,7 +9,7 @@ ul {
   overflow: hidden;
 }
 li {
-  float: right;
+  float: left;
   display: block;
   padding: 8px;
 }
