@@ -5,14 +5,3 @@ img {
   block-size: 80px;
   inline-size: 80px;
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-}
-li {
-  float: inline-start;
-  display: block;
-  padding: 8px;
-}
