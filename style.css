@@ -1,6 +1,9 @@
 body {
-  background: #1A1A1A;
-  color: #FFFFFF;
+  background: #F1F0F0;
+}
+img {
+  block-size: 80px;
+  inline-size: 80px;
 }
 ul {
   list-style-type: none;
